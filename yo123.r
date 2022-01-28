@@ -14,3 +14,5 @@ omg
 omfg <- c(1,4,5,3,5,9)
 
 cor.test(omg, omfg)
+
+#ITS SIGNIFICANT TIME TO PUBLISH
